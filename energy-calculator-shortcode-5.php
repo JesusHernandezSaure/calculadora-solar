@@ -3,7 +3,7 @@
  * Plugin Name: Energy Calculator
  * Description: A simple energy calculator for WordPress.
  * Version: 1.3
- * Author: Tu Nombre
+ * Author: Jesús Hernández Saure
  */
 
 // Shortcode function
